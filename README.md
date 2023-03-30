@@ -37,8 +37,11 @@ Per implementare questa infrastruttura seguire i seguenti passaggi:
 - Torna nella shell ed esegui i seguenti comandi in successione, soffermandoti sul comando plan per vedere le effettive modifiche che verranno fatte nella tua infrastruttura:
 	
 	terraform init 
+	
 	terraform validate
+	
 	terraform plan
+	
 	terraform apply
 
 - Verifica il corretto funzionamento in console.
